@@ -15,21 +15,21 @@ A blueprint library for Unreal Engine 4 that allows to send stimulations to the 
 
 ## UE4OpenVibeTCP Nodes - BluePrint 
 
-![IMG](http://imgur.com/JkGwt4v)
+![IMG](http://i.imgur.com/JkGwt4v.png)
 
-The Node *connect to OpenVibe (acquisition server)* takes in parameters the IP of the acquisition server (basically 127.0.0.1 if launched on the same computer) and the port (value in the window : OpenVibe Acquisition Server -> Preferences -> TCP_Tagging_Port (15361 by default)). His outputs are a Boolean « Success » (true if connection worked, false otherwise) and the Socket Reference object.
+The Node *connect to OpenVibe (acquisition server)* takes in parameters the IP of the acquisition server (basically 127.0.0.1 if launched on the same computer) and the port (value in the window : OpenVibe Acquisition Server -> Preferences -> TCP_Tagging_Port (15361 by default)). His outputs are a Boolean Â« Success Â» (true if connection worked, false otherwise) and the Socket Reference object.
 The Node *Send stimulation to OpenVibe* takes in parameters the Socket Reference object and an OpenVibe specific stimulation selectable inside a dropdownlist. It returns a Boolean (true if stimulation was sent correctly, false otherwise).
 The Node *Send stimulation to OpenVibe (input number)* takes in parameters the Socket Reference object and an integer (which should correspond to an OpenVibe stimulation). It returns a Boolean (true if stimulation was sent correctly, false otherwise). THE UTILISATION OF THE PREVIOUS NODE IS RECOMMENDED AS STIMULATIONS IN THE DROPDOWNLIST CORRESPOND TO OPENVIBE STIMULATIONS. THIS NODE CAN BE USED TO SEND NEW STIMULATIONS NON PRESENT IN OPENVIBE (ADVANCED).
 The Node *Close connection to OpenVibe* takes in parameter the Socket Reference object. It returns a Boolean (true if connexion was closed correctly, false otherwise).
 
 ## UE4OpenVibeTCP - Level Blueprint Example
 
-![IMG](http://imgur.com/gL6omMZ)
+![IMG](http://i.imgur.com/gL6omMZ.png)
 
 ## Contributor
 
 Louis A. aka "TheGameIsFixed"
-Contact : thegameisfixed@gmail.com
+Contact : thegameisfixed@gmail.com
 
 ## License
 
