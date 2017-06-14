@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE4OpenVibeTCP-9479.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"D:\Documents\Unreal Projects\DemoUE4OpenVibeTCP - Copie\Plugins\UE4OpenVibeTCP\Intermediate\Build\Win64\UE4Editor\Development\UE4OpenVibeTCP\Module.UE4OpenVibeTCP.cpp.obj"
+"D:\Documents\Unreal Projects\DemoUE4OpenVibeTCP - Copie\Plugins\UE4OpenVibeTCP\Intermediate\Build\Win64\UE4Editor\Development\UE4OpenVibeTCP\UE4OpenVibeTCP.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4OpenVibeTCP\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Documents\Unreal Projects\DemoUE4OpenVibeTCP - Copie\Plugins\UE4OpenVibeTCP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UE4OpenVibeTCP-9479.lib"
