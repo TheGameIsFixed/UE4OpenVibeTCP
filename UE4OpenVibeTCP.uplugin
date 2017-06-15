@@ -1,0 +1,24 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "UE4OpenVibeTCP",
+  "Description": "A simple UE4 plugin to send stimulations to OpenVibe via TCP",
+  "Category": "OpenVibe",
+  "CreatedBy": "TheGameIsFixed",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": true,
+  "RequiresBuildPlatform": false,
+  "Modules": [
+    {
+      "Name": "UE4OpenVibeTCP",
+      "Type": "Runtime",
+      "LoadingPhase": "PreLoadingScreen"
+    }
+  ]
+}
