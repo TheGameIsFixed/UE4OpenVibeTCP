@@ -1,7 +1,7 @@
 {
-	"Changelist" : 3466753,
-	"CompatibleChangelist" : 3452394,
-	"BuildId" : "7370d9bf-5485-48ce-aacb-446748b048bc",
+	"Changelist" : 3586342,
+	"CompatibleChangelist" : 3573198,
+	"BuildId" : "a85275cd-d363-4594-bbcc-177600e839e0",
 	"Modules" : 
 	{
 		"UE4OpenVibeTCP" : "UE4Editor-UE4OpenVibeTCP.dll"

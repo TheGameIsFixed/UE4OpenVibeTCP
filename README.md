@@ -1,7 +1,7 @@
-# UE4OpenVibeTCP
+﻿# UE4OpenVibeTCP
 A blueprint library for Unreal Engine 4 that allows to send stimulations to the acquisition server (OpenVibe) to mark the EEG signal (stimulations are sent using TCP sockets).
 
-**Last updated for 4.16!**
+**Last updated for 4.17!**
 
 ## Quick Install & Setup ##
 
